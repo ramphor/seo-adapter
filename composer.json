@@ -2,7 +2,7 @@
     "name": "ramphor/seo-adapter",
     "description": "The SEO adapter to support custom data for popular SEO plugins",
     "type": "library",
-    "license": "GPLv2",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Ramphor Premium",
