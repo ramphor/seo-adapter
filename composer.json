@@ -1,0 +1,19 @@
+{
+    "name": "ramphor/seo-adapter",
+    "description": "The SEO adapter to support custom data for popular SEO plugins",
+    "type": "library",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Ramphor Premium",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ramphor\\Seo\\": "src/"
+        }
+    }
+}
